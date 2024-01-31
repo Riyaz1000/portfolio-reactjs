@@ -1,0 +1,59 @@
+[
+  {
+    "person": {
+      "id": 1,
+      "name": "Riyaz H",
+      "age": 22,
+      "description": "I'm Riyaz, a dedicated full-stack developer and ",
+
+      "Phone": "6381190819",
+      "linkedinURL": "https://www.linkedin.com/in/riyaz-h-63698321a/",
+      "githubURL": "https://github.com/Riyaz1000",
+      "facebook": "https://www.facebook.com/",
+      "instagram": "https://www.instagram.com/",
+
+      "occupation": "Full-Stack Engineer",
+      "hobbies": ["Reading", "Coding", "Traveling"],
+      "Email": "yogharajdhayalnamburajan@gmail.com",
+      "address": {
+        "city": "Karaikudi",
+        "country": "India"
+      }
+    },
+
+    "currentSkills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "BootStrap 5",
+      "Tailwind CSS",
+      "Vite JS",
+      "React JS",
+      "Git",
+      "GitHub"
+    ],
+
+    "projects": {
+      "project1": {
+        "projectTitle": "whatsApp-UI-Clone",
+        "techStacks": ["HTML", "CSS"]
+      },
+      "project2": {
+        "projectTitle": "Personal Portfolio",
+        "techStacks": ["HTML", "CSS"]
+      },
+      "project3": {
+        "projectTitle": "Movie Listing",
+        "techStacks": ["HTML", "Bootstrap 5"]
+      },
+      "project4": {
+        "projectTitle": "WhatsApp UI",
+        "techStacks": ["HTML", "Tailwind CSS"]
+      },
+      "project5": {
+        "projectTitle": "Instagram UI",
+        "techStacks": ["HTML", "Tailwind CSS"]
+      }
+    }
+  }
+]
