@@ -2,25 +2,25 @@ import { data } from "autoprefixer";
 
 const TheNavbar = () => {
   return (
-    <div className="bg-[#e6bfb1] p-6 flex ">
+    <div className="bg-[#939eaa91] p-6 flex mb max-w-6xl mx-auto rounded-t ">
       <div>
-        <p className="text-[#c34e75] font-extrabold  text-2xl ml-[300px] font-sans items-center justify-center">
+        <p className="text-[#c34e75]  font-Pacifico  text-2xl font-thin items-center  justify-center">
           R I Y A Z
         </p>
       </div>
 
       <div>
-        <ul className="flex ml-[300px] gap-4 font-serif cursor-pointer  text-zinc-600 items-center justify-center font-semibold">
-          <li className="hover:text-white">Home</li>
-          <li className="hover:text-white">About</li>
-          <li className="hover:text-white">Contact</li>
-          <li className="hover:text-white"> Portfolio</li>
-          <li className="hover:text-white">Blog</li>
+        <ul className="flex ml-[250px] gap-4 font-serif cursor-pointer  text-zinc-600 items-center justify-center font-semibold">
+          <li className="hover:text-orange-600">Home</li>
+          <li className="hover:text-orange-600">About</li>
+          <li className="hover:text-orange-600">Contact</li>
+          <li className="hover:text-orange-600"> Portfolio</li>
+          <li className="hover:text-orange-600">Blog</li>
         </ul>
       </div>
 
       <div>
-        <button className="bg-red-100 text-red-800 rounded border hover:text-white hover:bg-[#fca5a5] border-black p-1 items-center justify-center ml-[300px]">
+        <button className="bg-orange-100 text-red-800 font-thin rounded border hover:text-white hover:bg-[#fca5a5] border-black px-2 font-poppins py-1 items-center justify-center ml-[250px]">
           Download CV
         </button>
       </div>

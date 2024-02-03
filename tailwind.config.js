@@ -5,13 +5,9 @@ export default {
     extend: {
       fontFamily: {
         poppins: ["poppins", "sans-serif"],
-      },
-      fontFamily: {
-        roboto: ["Roboto Mono", "monospace"],
-        poppins: ["Poppins", "sans-serif"],
-
-        Viga: ["Viga", "sans-serif"],
-        Poor: ["Poor ", "system-ui"],
+        poppines: ["Poppins", "sans-serif"],
+        leagueSpartan: ["League Spartan", "sans-serif"],
+        Pacifico: ["Pacifico", "cursive"],
       },
     },
   },

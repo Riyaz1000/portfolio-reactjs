@@ -7,12 +7,12 @@ import TheNavbar from "./components/TheNavbar.jsx";
 import ProfilePage from "./Pages/ProfilePage.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <div>
+  <div className="bg-gray-">
     {/* <App /> */}
     <TheNavbar />
 
     <ProfilePage />
 
-    {/* <Footer /> */}
+    <Footer />
   </div>
 );
