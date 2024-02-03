@@ -250,7 +250,7 @@ const ProfilePage = () => {
                   </p>
                 </div>
                 <div className="">
-                  <img src="/public/tn-2.png" alt="" className="rounded" />
+                  <img src="/tn-2.png" alt="" className="rounded" />
                 </div>
                 <div className="text-white text-sm font-thin mt-3 bg-zinc-700 rounded p-3">
                   Creating Thumbnail Grabber Application using by the simple
